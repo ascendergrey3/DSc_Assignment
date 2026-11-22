@@ -1,6 +1,5 @@
-# Random Projection on the KDD Cup 1999 Dataset
+# CSE558 Data Science: Assignment
 
-**CSE558 Data Science: Assignment**
 
 Malav Mehulkumar Solanki (2023306) · Rishith Rohan Anamalla (2023081)
 
